@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ElectricCarApp</string>
+    <string name="text_name">Electric Car</string>
+    <string name="text_favorite">Favorite</string>
+    <string name="text_car">Cars</string>
+    <string name="text_price">Price:</string>
+    <string name="text_battery">Battery:</string>
+    <string name="text_price_value">$ 300.000.00</string>
+    <string name="text_battery_value">90.4 kWh</string>
+    <string name="text_potency">Potency:</string>
+    <string name="text_potency_value">650 CV</string>
+    <string name="text_recharge">Recharge:</string>
+    <string name="text_recharge_value">25 MIN</string>
+    <string name="text_price_kwh">Price Kwh</string>
+    <string name="text_km_traveled">Km Traveled</string>
+    <string name="text_result">Result:</string>
+    <string name="button_calculate">Calculate</string>
+    <string name="cd_name">Electric Car</string>
+    <string name="calculate_autonomy">Calculate Autonomy</string>
+    <string name="close_aba">Close</string>
+    <string name="no_signal_internet">No signal Internet</string>
+    <string name="response_error">Sorry, any thing is not correct, try again!</string>
+    <string name="cv_no_internet">No Internet</string>
+    <string name="text_saved_calculate">saved calculate</string>
+    <string name="text_delete">"Delete "</string>
+</resources>
